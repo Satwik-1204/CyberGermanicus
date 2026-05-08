@@ -1,0 +1,12 @@
+# Ignore virtual environment
+.venv/
+cyber_env/
+
+# Ignore massive datasets and models
+data/
+processed/
+models/
+__pycache__/
+*.csv
+*.parquet
+*.pkl
